@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Hola Unaula!</h2>
+<h2>Hola Unaula</h2>
 
 <FORM ACTION="sayHello" METHOD="POST">
     <label id="lblNombre">Nombre</label>   
